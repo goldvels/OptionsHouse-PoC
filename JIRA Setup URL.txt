@@ -1,0 +1,2 @@
+Jira Setup
+https://confluence.atlassian.com/display/JIRA/JIRA+Installation+and+Upgrade+Guide 
